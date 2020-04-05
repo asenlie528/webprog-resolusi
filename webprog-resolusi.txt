@@ -3,3 +3,4 @@ Webprog Resolusi
 -belajar CSS
 -belajar PHP
 -belajar JavaScript
+-belajar GIT dan GITHUB
