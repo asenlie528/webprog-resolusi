@@ -8,6 +8,7 @@ Webprog Resolusi
     ^Angular
     ^ReactJS
   *ES7
+  *TypeScript
 -belajar GIT dan GITHUB
 -belajar PHP MVP
 -belajar PHP Frameworks
