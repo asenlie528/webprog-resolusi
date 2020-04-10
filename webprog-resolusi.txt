@@ -7,6 +7,7 @@ Webprog Resolusi
 -belajar GIT dan GITHUB
 -belajar PHP MVP
 -belajar PHP Frameworks
+ ^Laravel
  ^Symfony
  ^Zend Framework
--meneruskan baca Data Structure & Algorithme
+
