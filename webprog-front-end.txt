@@ -1,5 +1,8 @@
 RENCANA BELAJAR FRONT-END
--Selesaikan belajar CSS Grid
+-Selesaikan belajar CSS Grid 
 -Selesaikan belajar Java Script
+  * Dasar
+  * Lanjutan
+  * MVC
 -Belajar JQuery
 -Belajar GIT dan GITHUB
