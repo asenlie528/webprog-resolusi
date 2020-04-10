@@ -2,6 +2,15 @@ Webprog Resolusi
 -belajar CSS
 -belajar PHP
 -belajar JavaScript
+  *ES6
+  *Framework JavaScript
+    ^Vue
+    ^Angular
+    ^ReactJS
 -belajar GIT dan GITHUB
 -belajar PHP MVP
+-belajar PHP Frameworks
+  ^CodeIgniter
+  ^Laravel
 -meneruskan baca Data Structure & Algorithme
+-Python
