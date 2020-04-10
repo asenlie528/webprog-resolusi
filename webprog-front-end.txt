@@ -1,0 +1,5 @@
+RENCANA BELAJAR FRONT-END
+-Selesaikan belajar CSS Grid
+-Selesaikan belajar Java Script
+-Belajar JQuery
+-Belajar GIT dan GITHUB
