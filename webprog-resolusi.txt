@@ -7,6 +7,7 @@ Webprog Resolusi
     ^Vue
     ^Angular
     ^ReactJS
+  *ES7
 -belajar GIT dan GITHUB
 -belajar PHP MVP
 -belajar PHP Frameworks
