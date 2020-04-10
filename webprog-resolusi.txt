@@ -3,16 +3,22 @@ Webprog Resolusi
 -belajar PHP
 -belajar JavaScript
   *ES6
+  *ES7
+  *Closure
+  *Object & Prototype
+  *TypeScript
   *Framework JavaScript
     ^Vue
     ^Angular
     ^ReactJS
-  *ES7
-  *TypeScript
 -belajar GIT dan GITHUB
 -belajar PHP MVP
 -belajar PHP Frameworks
-  ^CodeIgniter
-  ^Laravel
+ ^CodeIgniter
+ ^Laravel
+ ^Symfony
+ ^Zend Framework
+
 -meneruskan baca Data Structure & Algorithme
 -Python
+  
