@@ -6,6 +6,7 @@ Webprog Resolusi
   *ES7
   *Closure
   *Object & Prototype
+  *Node-JS
   *TypeScript
   *Framework JavaScript
     ^Vue
