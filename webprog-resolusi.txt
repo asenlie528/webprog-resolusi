@@ -2,6 +2,7 @@ Webprog Resolusi
 -belajar CSS
 -belajar PHP
 -belajar JavaScript
+  *JQuery
   *ES6
   *ES7
   *Closure
